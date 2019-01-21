@@ -406,6 +406,8 @@ call vundle#rc()
 
 Bundle 'slim-template/vim-slim.git'
 Bundle 'kchmck/vim-coffee-script'
+Bundle 'scrooloose/nerdtree'
+Bundle 'kien/ctrlp.vim'
 
 syntax enable
 filetype plugin indent on
