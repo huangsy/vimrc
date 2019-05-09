@@ -401,8 +401,8 @@ endfunction
 
 " plugins
 "
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
 
 Bundle 'slim-template/vim-slim.git'
 Bundle 'kchmck/vim-coffee-script'
